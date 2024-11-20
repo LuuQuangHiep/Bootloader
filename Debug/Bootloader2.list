@@ -631,7 +631,6 @@ int main(void)
 
     }
 
-  //  MX_IWDG_Init();
     printf_msg("Jump to FW\r\n");
  8000698:	4813      	ldr	r0, [pc, #76]	@ (80006e8 <main+0x1e4>)
  800069a:	f7ff ff1d 	bl	80004d8 <printf_msg>

@@ -158,7 +158,6 @@ int main(void)
 
     }
 
-  //  MX_IWDG_Init();
     printf_msg("Jump to FW\r\n");
 
     void(*main_program)();
